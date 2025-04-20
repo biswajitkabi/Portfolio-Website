@@ -30,7 +30,7 @@ const data = {
           title: "Online-Voting-System",
           link:"https://github.com/biswajitkabi/Online-Voting-System",
           description: "Online-Voting-System is a secure web application that enables users to cast their votes digitally, ensuring transparency, efficiency, and accessibility in the electoral process.",
-          image: "/expenseTracker.jpeg",
+          image: "/voting.png",
           technologies: ["JavaScript", "React.js", "Solidity", ],
         },
         {
