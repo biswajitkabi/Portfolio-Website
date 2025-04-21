@@ -102,7 +102,7 @@ export default function ProfileCard() {
         transition={{ type: "tween", duration:0.8 }} 
         className="relative w-44 h-52 md:w-72 md:h-80 md:justify-self-center rounded-lg overflow-hidden border-2  border-green-400">
           <Image
-            src="/biswa-profile.jpg" // Change this to the actual image path
+            src="/profile2.jpg" // Change this to the actual image path
             alt="Profile Picture"
             layout="fill"
             objectFit="cover"
