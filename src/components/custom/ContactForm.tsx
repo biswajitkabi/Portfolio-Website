@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Checkbox } from "@/components/ui/checkbox";
 import Image from "next/image";
 import * as motion from "motion/react-client"
-import { Eye, Github, Linkedin, Mail, Twitter } from "lucide-react";
+import { Eye, Github, Linkedin, Mail, Twitter, Phone } from "lucide-react";
 
 export default function ContactForm() {
   const stars = Array.from({ length: 40 }, (_, i) => i)
@@ -73,6 +73,10 @@ export default function ContactForm() {
         <div className="flex items-center justify-center space-x-2 bg-primary p-3 rounded-lg hover:bg-green-600 transition">
           <Mail className="h-6 w-6" />
           <span className="font-mono">biswajitkabi.dev@gmail.com</span>
+        </div>
+        <div className="flex items-center justify-center space-x-2 bg-primary p-3 rounded-lg hover:bg-green-600 transition">
+          <Phone className="h-6 w-6" />
+          <span className="font-mono">+91-8093120516</span>
         </div>
 
         <a href="https://www.linkedin.com/in/biswajit-kabi" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center space-x-2 bg-primary p-3 rounded-lg hover:bg-green-600 transition">

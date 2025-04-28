@@ -21,12 +21,12 @@ export default function Footer() {
         <Button variant="ghost" size="icon" onClick={handleGmailClick}>
           <MailOpen className="text-white" />
         </Button>
-        <a href="https://linkedin.com" className=" hover:cursor-pointer" target="_blank" >
+        <a href="https://www.linkedin.com/in/biswajit-kabi" className=" hover:cursor-pointer" target="_blank" >
           <Button variant="ghost" size="icon">
             <Linkedin className="text-white text-2xl" />
           </Button>
         </a>
-        <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/biswajit-kabi" target="_blank" rel="noopener noreferrer">
           <Button variant="ghost" size="icon">
             <Github className="text-white text-2xl" />
           </Button>
