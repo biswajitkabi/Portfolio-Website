@@ -13,7 +13,7 @@ Hey there! I'm **Biswajit Kabi**, a curious and creative full-stack developer cu
 💡 I love solving complex problems—whether it's through **Java & SpringBoot** on the backend or creating delightful experiences with **React & Next.js** on the frontend.  
 🚀 When I’m not coding, you’ll probably find me competing in LeetCode contests, diving into a new tech framework, or mentoring peers in developer communities.
 
-> "I build web apps the way Tony Stark builds suits – functional, sleek, and a bit of flair."
+ I build web apps the way Tony Stark builds suits – functional, sleek, and a bit of flair.
 
 I'm always up for a new challenge or collaboration. Let’s connect!
 
