@@ -48,9 +48,9 @@ export default function Home() {
       </div>
       <Links/>
       <Skills/>
+      <Experience/>
       <Projects/>
       <Achievements/>
-      {/* <Experience/> */}
       <ContactForm/>
       <Footer/>
       </>)}
