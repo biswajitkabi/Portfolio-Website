@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { ArrowDownToLine, Github, Linkedin, MailOpen } from "lucide-react";
 
 export default function Footer() {
-   const yourEmail = "biswajitkabi.dev@gmail.com";
+   const yourEmail = "biswajitkabi07@gmail.com";
 
    const handleGmailClick = () => {
        window.open(`https://mail.google.com/mail/?view=cm&cc=${yourEmail}`, "_blank")
