@@ -72,7 +72,7 @@ export default function ContactForm() {
       <div className="flex flex-col space-y-3">
         <div className="flex items-center justify-center space-x-2 bg-primary p-3 rounded-lg hover:bg-green-600 transition">
           <Mail className="h-6 w-6" />
-          <span className="font-mono">biswajitkabi.dev@gmail.com</span>
+          <span className="font-mono">biswajitkabi07@gmail.com</span>
         </div>
         <div className="flex items-center justify-center space-x-2 bg-primary p-3 rounded-lg hover:bg-green-600 transition">
           <Phone className="h-6 w-6" />
@@ -88,7 +88,7 @@ export default function ContactForm() {
           <Twitter className="h-6 w-6" />
           <span className="font-mono">X.com</span>
         </a>
-        <a href="https://drive.google.com/file/d/16IWQbUXx5hJRugLcjzFx4dA7974DPyvJ/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center space-x-2 bg-primary p-3 rounded-lg hover:bg-green-600 transition">
+        <a href="https://drive.google.com/file/d/1EhnqCYooSK10j2JJktzE036rUeSstxJ7/view?pli=1" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center space-x-2 bg-primary p-3 rounded-lg hover:bg-green-600 transition">
           <Eye className="h-6 w-6" />
           <span className="font-mono">Resume</span>
         </a>
